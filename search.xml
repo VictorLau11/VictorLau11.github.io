@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[日]]></title>
+    <url>%2F2017%2F09%2F21%2F%E6%97%A5%2F</url>
+    <content type="text"><![CDATA[http://7xrxfv.com1.z0.glb.clouddn.com/%E6%97%A5%E7%A8%8B%E8%A1%A8.pdf]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[互不为子集的有序集合的组数]]></title>
     <url>%2F2017%2F08%2F31%2F%E4%BA%92%E4%B8%8D%E4%B8%BA%E5%AD%90%E9%9B%86%E7%9A%84%2F</url>
     <content type="text"><![CDATA[设$A$、$B$是集合$\{a_1,a_2,a_3,a_4,a_5\}$的两个不同子集，使得$A$不是$B$的子集，$B$也不是$A$的子集。求不同的有序集合对$(A,B)$的组数。 解：集合$\{a_1,a_2,a_3,a_4,a_5\}$有$2^5$个子集，不同的有序集合对$(A,B)$有$2^5(2^5-1)$组。 若$A\subseteq B$，并设$B$含有$k(1\leq k\leq 5 )$个元素。则满足$A\subseteq B$的有序集合对$(A,B)$的组数为$\sum_{k=1}^{5}C_5^k(2^k-1)=\sum_{k=0}^{5}C_5^k(2^k-1)=\sum_{k=0}^{5}C_5^k2^k-\sum_{k=0}^{5}C_5^k=3^5-2^5$ 同理，满足$B\subseteq A$的有序集合对$(A,B)$也有$3^5-2^5$组。 所以满足条件的的有序集合对$(A,B)$的组数为$2^5(2^5-1)-2(3^5-2^5)=570$组。]]></content>
